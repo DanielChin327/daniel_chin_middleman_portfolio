@@ -1,32 +1,25 @@
-- name: Longest Word Game
+- name: Profinder
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
 
-- name: Movie Watchlist
+- name: Samurai Service
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
 
-- name: Airbnb
+- name: Weather App
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   github: https://www.github.com
   online: true
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
+- name: Omikuji
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
